@@ -52,7 +52,7 @@ World-population-Analytics/
 * 🔎 Interactive data exploration
 <p align="centre">
 
- <img width="1599" height="817" alt="WhatsApp Image 2026-08-08 at 12 57 48 AM" src="https://github.com/user-attachments/assets/ea230445-9c23-499e-b7bb-7e2de950e129" width="50%" />
+ <img width="1599" height="822" alt="WhatsApp Image 2026-08-09 at 12 29 16 AM" src="https://github.com/user-attachments/assets/f3f05965-ed82-4442-ad70-8d0ecf514a7b" width="50%" />
 
 
 </p>
@@ -66,7 +66,7 @@ World-population-Analytics/
 * 🔎 Interactive Plotly charts
 <p align="centre">
 
- <img width="1599" height="809" alt="WhatsApp Image 2026-08-08 at 12 57 49 AM" src="https://github.com/user-attachments/assets/70560507-331c-4f01-bae8-cb2396b73239" width="50%" />
+ <img width="1599" height="782" alt="WhatsApp Image 2026-08-09 at 12 29 16 AM (1)" src="https://github.com/user-attachments/assets/ad276ba6-6e87-4276-8dfa-618eab97ae94" width="50%" />
 
 
 </p>
@@ -81,7 +81,8 @@ World-population-Analytics/
 * Data-quality analysis
 <p align="centre">
 
-<img width="1599" height="993" alt="WhatsApp Image 2026-08-08 at 12 57 49 AM (1)" src="https://github.com/user-attachments/assets/6963a84c-0971-4799-861b-b0bed734039f" width="50%" />
+<img width="1599" height="795" alt="WhatsApp Image 2026-08-09 at 12 29 17 AM" src="https://github.com/user-attachments/assets/a01d4683-f06e-4f17-9dc7-97809b087a86" width="50%" />
+
 
 </p>
 
@@ -95,7 +96,7 @@ World-population-Analytics/
 * 📊 Historical population changes
 <p align="centre">
 
- <img width="1599" height="833" alt="WhatsApp Image 2026-08-08 at 12 57 49 AM (2)" src="https://github.com/user-attachments/assets/3d118829-da75-4658-a77b-651488b36efb" width="50%" />
+<img width="1599" height="790" alt="WhatsApp Image 2026-08-09 at 12 29 17 AM (1)" src="https://github.com/user-attachments/assets/d9a205a3-3160-4049-a2fd-4e6a68128b9c" width="50%" />
 
 
 </p>
